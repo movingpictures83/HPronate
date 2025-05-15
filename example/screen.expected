@@ -24,8 +24,8 @@
 ***********************************************************************************
 [PluMA] Running Plugin: HPronate
 ## Executing Reduce to assign histidine protonation states
-## Input PDB: plugins/HPronate/example//1.pdb
-HIS ( 54 )      -->     HIS+
-HIS ( 77 )      -->     HIS+
-HIS ( 224 )     -->     HIS+
-HIS ( 292 )     -->     HIS+
+## Input PDB: plugins/HPronate/example//1.pdb 
+HIS ( 54 )	-->	HIS+
+HIS ( 77 )	-->	HIS+
+HIS ( 224 )	-->	HIS+
+HIS ( 292 )	-->	HIS+
